@@ -3,6 +3,8 @@
 A playable tic-tac-toe game for the web with a two-color risograph print look —
 red draws the X strokes, blue draws the O rings.
 
+![Screenshot of Two-Ink Tic-Tac-Toe showing a completed round where X wins on the diagonal](docs/screenshot.png)
+
 ## Play
 
 **Live site: https://zuvuyan.github.io/TutorialTim/**
