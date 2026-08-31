@@ -1,8 +1,10 @@
 name: Deploy to GitHub Pages
 
+# Pages is not enabled yet (private repo on the free plan). Once you enable
+# Pages with "GitHub Actions" as the source, add the push trigger back:
+#   push:
+#     branches: [main]
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
