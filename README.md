@@ -5,9 +5,11 @@ red draws the X strokes, blue draws the O rings.
 
 ## Play
 
-Open `index.html` in any modern browser. No build step, no dependencies.
+**Live site: https://zuvuyan.github.io/TutorialTim/**
 
-Live version: https://claude.ai/code/artifact/7f86cf9b-a16f-4676-bc1e-553f3c202f6e
+Or open `index.html` in any modern browser. No build step, no dependencies.
+
+Also published as a Claude artifact: https://claude.ai/code/artifact/7f86cf9b-a16f-4676-bc1e-553f3c202f6e
 
 ## Features
 
